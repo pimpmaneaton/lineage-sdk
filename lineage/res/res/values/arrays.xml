@@ -118,6 +118,10 @@
 
     <!-- Trusted accents package names -->
     <string-array name="trusted_accent_packages" translatable="false">
+        <item>org.lineageos.overlay.accent.amber</item>
+        <item>org.lineageos.overlay.accent.gold</item>
+        <item>org.lineageos.overlay.accent.teal</item>
+        <item>org.lineageos.overlay.accent.lava</item>
         <item>org.lineageos.overlay.accent.red</item>
         <item>org.lineageos.overlay.accent.pink</item>
         <item>org.lineageos.overlay.accent.purple</item>
@@ -127,6 +131,7 @@
         <item>org.lineageos.overlay.accent.orange</item>
         <item>org.lineageos.overlay.accent.yellow</item>
         <item>org.lineageos.overlay.accent.brown</item>
+        <item>org.lineageos.overlay.accent.grey</item>
         <item>org.lineageos.overlay.accent.black</item>
     </string-array>
 </resources>
