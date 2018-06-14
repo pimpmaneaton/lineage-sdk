@@ -157,6 +157,13 @@
     <java-symbol type="string" name="accent_turquoise" />
     <java-symbol type="string" name="accent_demon" />
     <java-symbol type="string" name="accent_yellow" />
+    <java-symbol type="string" name="accent_lime" />
+    <java-symbol type="string" name="accent_lightgreen" />
+    <java-symbol type="string" name="accent_lightblue" />
+    <java-symbol type="string" name="accent_deeppurple" />
+    <java-symbol type="string" name="accent_deeporange" />
+    <java-symbol type="string" name="accent_bluegrey" />
+    <java-symbol type="string" name="accent_indigo" />
 
     <java-symbol type="array" name="config_vendorPlatformSignatures" />
 

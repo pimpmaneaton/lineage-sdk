@@ -19,4 +19,11 @@
     <string name="accent_teal">Teal</string>
     <string name="accent_turquoise">Turquoise</string>   
     <string name="accent_yellow">Yellow</string>
+    <string name="accent_deeppurple">Deep purple</string>
+    <string name="accent_deeporange">Deep orange</string>
+    <string name="accent_indigo">Indigo</string>
+    <string name="accent_lightblue">Light blue</string>
+    <string name="accent_lightgreen">Light green</string>
+    <string name="accent_lime">Lime</string>
+    <string name="accent_bluegrey">Blue grey</string>
 </resources>
