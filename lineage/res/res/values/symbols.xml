@@ -187,4 +187,7 @@
     <java-symbol type="string" name="trust_notification_content_onboarding" />
     <java-symbol type="string" name="trust_notification_action_manage" />
 
+    <!-- Notch -->
+    <java-symbol type="bool" name="config_haveNotch" />
+
 </resources>
